@@ -4,7 +4,7 @@
 - [ ] miscellaneous 杂项
 - [ ] rationale 基本原理
 - [ ] nontrivial 重要的
-- [ ] vice 副的，代理的
+- [x] vice 副的，代理的
 - [ ] malleable 可塑的
 - [ ] span 跨度
 - [ ] discrete 离散
