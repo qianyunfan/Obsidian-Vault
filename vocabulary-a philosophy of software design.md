@@ -1,4 +1,4 @@
-- [ ] prevalence 患病率;流行，盛行
+- [x] prevalence 患病率;流行，盛行
 - [ ] drudge 苦工
 - [ ] mediocre 平庸
 - [ ] miscellaneous 杂项
