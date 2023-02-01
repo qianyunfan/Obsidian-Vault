@@ -47,3 +47,4 @@
 - [ ] indices 指数
 - [ ] convention 习俗，惯例；大会，集会；公约，协定；（文学、艺术上的）传统手法，传统风格
 - [ ] consistency 一致性
+- [ ] precede 优先；之前
