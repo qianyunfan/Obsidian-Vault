@@ -1,0 +1,42 @@
+- [ ] prevalence 患病率;流行，盛行
+- [ ] drudge 苦工
+- [ ] mediocre 平庸
+- [ ] miscellaneous 杂项
+- [ ] rationale 基本原理
+- [ ] nontrivial 重要的
+- [ ] vice 副的，代理的
+- [ ] malleable 可塑的
+- [ ] span 跨度
+- [ ] discrete 离散
+- [ ] flesh out 充实
+- [ ] intrinsically 本质的
+- [ ] underway 进行中
+- [ ] accommodate 为……提供住宿；容纳，提供空间；考虑到，顾及；顺应，适应；帮助（某人），向……施以援手；迎合，迁就；调解
+- [ ] conjunction 结合
+- [ ] conform 符合，顺从
+- [ ] vice versa 反之亦然
+- [ ] catastrophic 灾难性的
+- [ ] proactive 积极主动的
+- [ ] reactive 反应的；电抗的；反动的
+- [ ] empirical 经验的
+- [ ] particularly 非常；特别
+- [ ] sophisticated 复杂的
+- [ ] subtal 不易察觉的；微妙的
+- [ ] impose v. 强制推行，强制实行；把（自己的观点、信仰等）强加于；打扰，麻烦；把（活字页）拼版；欺骗
+- [ ] obscurity n. 无名，默默无闻；费解，晦涩；
+- [ ] pervasively 普遍
+- [ ] notion 概念，想法
+- [ ] propotional 成比例的
+- [ ] rudimentary 基本的，初步发展的
+- [ ] intuitive adj. 直觉的；有直觉力的；易懂的，使用简便的
+- [ ] anticipate v. 预期，预料；预见（并做准备）；期望，盼望；先于……做，早于……行动；提前使用；在期限内履行（义务），偿还（债务）
+- [ ] facility 设备；卫生间；天赋；特别装置
+- [ ] adjacent 相邻的
+- [ ] identical 相同的
+- [ ] boilerplate n. 样板文件；引用
+- [ ] compensate v. 赔偿，偿付；弥补，补偿；抵消；酬报（某人）
+- [ ] disproportionately 不成比例地
+- [ ] semantic 语义
+- [ ] preserve 保存
+- [ ] extract 提取
+- [ ] precise 精确的

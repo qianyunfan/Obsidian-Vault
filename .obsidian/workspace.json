@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "1d22e2ad70570d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "7224728e3d7413fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80db0132839e6735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vocabulary-a philosophy of software design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2c875cfcd5241e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a5f967b8908465a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9905f0987f36dee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0cbb036903f76cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#语法",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1a87446d9d1fc96",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4d653f9fa471042",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d3db763d939c09b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8193103482b1242e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vocabulary-a philosophy of software design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f971e2d40ea257e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vocabulary-a philosophy of software design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7f8642c01f0c2d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vocabulary-a philosophy of software design.md"
+              }
+            }
+          },
+          {
+            "id": "bf98c7783fe01eb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "80db0132839e6735",
+  "lastOpenFiles": [
+    "markdown grammar.md",
+    "01_test.md",
+    "vocabulary-a philosophy of software design.md",
+    "图片链接.md",
+    "未命名.canvas"
+  ]
+}
