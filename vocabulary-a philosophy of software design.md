@@ -14,13 +14,13 @@
 - [ ] accommodate 为……提供住宿；容纳，提供空间；考虑到，顾及；顺应，适应；帮助（某人），向……施以援手；迎合，迁就；调解
 - [ ] conjunction 结合
 - [ ] conform 符合，顺从
-- [ ] vice versa 反之亦然
-- [ ] catastrophic 灾难性的
+- [x] vice versa 反之亦然
+- [x] catastrophic 灾难性的
 - [ ] proactive 积极主动的
 - [ ] reactive 反应的；电抗的；反动的
 - [ ] empirical 经验的
-- [ ] particularly 非常；特别
-- [ ] sophisticated 复杂的
+- [x] particularly 非常；特别
+- [x] sophisticated 复杂的
 - [ ] subtal 不易察觉的；微妙的
 - [ ] impose v. 强制推行，强制实行；把（自己的观点、信仰等）强加于；打扰，麻烦；把（活字页）拼版；欺骗
 - [ ] obscurity n. 无名，默默无闻；费解，晦涩；
