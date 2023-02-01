@@ -41,4 +41,3 @@
 - [ ] extract 提取
 - [ ] precise 精确的
 - [ ] amend 修订；修正
-- [ ] 
