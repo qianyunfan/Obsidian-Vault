@@ -51,3 +51,4 @@
 - [ ] padding 填充
 - [ ] disseminate 传播
 - [ ] examining 检查
+- [ ] revise 修正，修改
