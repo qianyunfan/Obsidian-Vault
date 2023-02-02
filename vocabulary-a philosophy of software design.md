@@ -53,3 +53,4 @@
 - [ ] examining 检查
 - [ ] revise 修正，修改
 - [ ] audit 审计；审核
+- [ ] convey 
