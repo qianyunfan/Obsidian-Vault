@@ -50,3 +50,4 @@
 - [ ] precede 优先；之前
 - [ ] padding 填充
 - [ ] disseminate 传播
+- [ ] examining 检查
