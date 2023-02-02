@@ -54,3 +54,4 @@
 - [ ] revise 修正，修改
 - [ ] audit 审计；审核
 - [ ] convey 表达；传递；转让
+- [ ] intuition 直觉力；直觉感知，直觉知识
