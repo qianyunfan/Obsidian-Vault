@@ -1,1 +1,1 @@
-1.dont put your phone next to your bed.use other equipment without 
+1.dont put your phone next to your bed.use other primitive equipment  to 
