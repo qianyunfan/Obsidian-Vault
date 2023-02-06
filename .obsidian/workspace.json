@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/practical tricks of life.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "output/practical tricks of life.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "output/practical tricks of life.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "output/practical tricks of life.md"
+                "file": "vocabulary/vocabulary-a philosophy of software design.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "54267dd4f9fa841e",
   "lastOpenFiles": [
-    "vocabulary/vocabulary-a philosophy of software design.md",
     "markdown grammar.md",
+    "output/practical tricks of life.md",
+    "vocabulary/vocabulary-a philosophy of software design.md",
     "01_test.md",
     "图片链接.md",
     "未命名.canvas"
