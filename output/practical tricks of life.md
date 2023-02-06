@@ -1,0 +1,1 @@
+1.dont put your phone next to your bed.use other equipment without 
