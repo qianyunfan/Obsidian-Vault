@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary-a philosophy of software design.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54267dd4f9fa841e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocabulary-a philosophy of software design.md",
+                "file": "output/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocabulary-a philosophy of software design.md",
+                "file": "output/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocabulary-a philosophy of software design.md"
+                "file": "output/未命名.md"
               }
             }
           },
@@ -145,11 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80db0132839e6735",
+  "active": "54267dd4f9fa841e",
   "lastOpenFiles": [
+    "vocabulary/vocabulary-a philosophy of software design.md",
     "markdown grammar.md",
     "01_test.md",
-    "vocabulary-a philosophy of software design.md",
     "图片链接.md",
     "未命名.canvas"
   ]
