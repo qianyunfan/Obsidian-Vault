@@ -56,3 +56,4 @@
 - [ ] convey 表达；传递；转让
 - [ ] intuition 直觉力；直觉感知，直觉知识
 - [ ] analogy 类比
+- [ ] contrast 差异；对比
