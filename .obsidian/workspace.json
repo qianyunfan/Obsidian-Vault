@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/practical tricks of life.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#语法",
+                "query": "git ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "output/practical tricks of life.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "output/practical tricks of life.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "output/practical tricks of life.md"
+                "file": "vocabulary/vocabulary-a philosophy of software design.md"
               }
             }
           },
@@ -158,11 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "54267dd4f9fa841e",
+  "active": "e0cbb036903f76cb",
   "lastOpenFiles": [
-    "vocabulary/vocabulary-a philosophy of software design.md",
     "markdown grammar.md",
     "01_test.md",
+    "output/practical tricks of life.md",
+    "vocabulary/vocabulary-a philosophy of software design.md",
     "图片链接.md",
     "未命名.canvas"
   ]
