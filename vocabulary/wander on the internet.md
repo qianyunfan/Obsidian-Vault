@@ -1,3 +1,3 @@
 # wiki
- - [x] radiation 辐射
- - [ ] 
+ - [ ] radiation 辐射
+ - [ ] propagate 传播，散播
