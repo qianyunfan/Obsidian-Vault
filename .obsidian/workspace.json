@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary/wander on the internet.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocabulary/wander on the internet.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocabulary/wander on the internet.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocabulary/wander on the internet.md"
+                "file": "vocabulary/vocabulary-a philosophy of software design.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "30eda05b487ac85a",
   "lastOpenFiles": [
-    "vocabulary/vocabulary-a philosophy of software design.md",
     "vocabulary/wander on the internet.md",
+    "vocabulary/vocabulary-a philosophy of software design.md",
     "conflict-files-obsidian-git.md",
     "output/topics u can never escape in cs.md",
     "output/practical tricks of life.md",
