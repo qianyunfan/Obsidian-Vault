@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown grammar.md",
+                "file": "cs learn/git/tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown grammar.md",
+                "file": "cs learn/git/tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown grammar.md",
+                "file": "cs learn/git/tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown grammar.md"
+                "file": "cs learn/git/tutorial.md"
               }
             }
           },
@@ -196,11 +196,11 @@
   },
   "active": "12aba611fc305c96",
   "lastOpenFiles": [
-    "cs learn/git/tutorial.md",
     "markdown grammar.md",
+    "vocabulary/vocabulary-a philosophy of software design.md",
+    "cs learn/git/tutorial.md",
     "未命名.md",
     "01_test.md",
-    "vocabulary/vocabulary-a philosophy of software design.md",
     "vocabulary/wander on the internet.md",
     "conflict-files-obsidian-git.md",
     "output/topics u can never escape in cs.md",
