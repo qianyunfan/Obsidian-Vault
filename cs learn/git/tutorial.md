@@ -17,3 +17,4 @@ $ git config --global user.email "email@example.com"
 - `git diff` show differences with local file and added file.
 - `git status` show status.
 - `git log` show logs. Use `git log --pretty=oneline` show briefly.
+- `git reset` 
