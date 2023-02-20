@@ -54,9 +54,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12aba611fc305c96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,15 +186,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "30eda05b487ac85a",
+  "active": "d9905f0987f36dee",
   "lastOpenFiles": [
-    "vocabulary/wander on the internet.md",
+    "01_test.md",
+    "未命名.md",
     "vocabulary/vocabulary-a philosophy of software design.md",
+    "vocabulary/wander on the internet.md",
     "conflict-files-obsidian-git.md",
     "output/topics u can never escape in cs.md",
     "output/practical tricks of life.md",
     "markdown grammar.md",
-    "01_test.md",
     "图片链接.md",
     "未命名.canvas"
   ]
