@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs learn/git/tutorial.md",
+                "file": "markdown grammar.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs learn/git/tutorial.md",
+                "file": "markdown grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs learn/git/tutorial.md",
+                "file": "markdown grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs learn/git/tutorial.md"
+                "file": "markdown grammar.md"
               }
             }
           },
@@ -196,8 +196,8 @@
   },
   "active": "12aba611fc305c96",
   "lastOpenFiles": [
-    "markdown grammar.md",
     "cs learn/git/tutorial.md",
+    "markdown grammar.md",
     "未命名.md",
     "01_test.md",
     "vocabulary/vocabulary-a philosophy of software design.md",
