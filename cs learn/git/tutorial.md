@@ -10,5 +10,5 @@ $ git config --global user.email "email@example.com"
 
 # START
 1. cd to dictionary
-2. cmd input  `git init` , it will make this dictionary become   
+2. cmd input  `git init` , it will make this dictionary become a **repository**, which can record and control all 
 3. 
