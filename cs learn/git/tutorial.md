@@ -16,4 +16,4 @@ $ git config --global user.email "email@example.com"
 - `git commit -m "xxxxxx"` commit file into repository. The difference with `add` is that add is just _add_ this file, while `commit` means you confirm your changes and put the changed file into repo. `commit` will commit all changed files. After `-m`  is our commit info, like what's the change. 
 - `git diff` show differences with local file and added file.
 - `git status` show status.
-- `git log` show logs. Use `git log --pretty=oneline` show briefly;
+- `git log` show logs. Use `git log --pretty=oneline` show briefly.
