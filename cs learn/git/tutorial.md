@@ -7,4 +7,4 @@ $ git config --global user.email "email@example.com"
 ```
 
 # START
-- cd to 
+- cd to dictionarydictionary
