@@ -13,3 +13,4 @@ $ git config --global user.email "email@example.com"
 2. Input `git init` in cmd, it will make this dictionary become a **repository**, which can record and control all changes by generate **.git** folder.
 # Command
 - `git add` add file into repository.
+- `git commit -m "xxxxxx"` commit 
