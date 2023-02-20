@@ -17,4 +17,4 @@ $ git config --global user.email "email@example.com"
 - `git diff` show differences with local file and added file.
 - `git status` show status.
 - `git log` show logs. Use `git log --pretty=oneline` show briefly.
-- `git reset` means rollback to the previous version. Use HEAD^^^ or HEAD~3
+- `git reset` means rollback to the previous version. Use HEAD^^^ or HEAD~3 as parameter. Git use HEAD as a poin
