@@ -9,4 +9,5 @@ $ git config --global user.email "email@example.com"
 ```
 
 # START
-- cd to dictionary
+1. cd to dictionary
+2. 
