@@ -10,5 +10,5 @@ $ git config --global user.email "email@example.com"
 
 # START
 1. Use cd command to a dictionary you want.
-2. Inputcmd   `git init` , it will make this dictionary become a **repository**, which can record and control all changes by generate **.git** folder.
+2. Input `git init` in cmd, it will make this dictionary become a **repository**, which can record and control all changes by generate **.git** folder.
 3. 
