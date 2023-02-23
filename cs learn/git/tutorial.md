@@ -12,7 +12,7 @@ $ git config --global user.email "email@example.com"
 1. Use cd command to a dictionary you want.
 2. Input `git init` in cmd, it will make this dictionary become a **repository**, which can record and control all changes by generate **.git** folder.
 # Command
-- `git add` add file into repository.
+- `git add` add file into stage.
 - `git commit -m "xxxxxx"` commit file into repository. The difference with `add` is that add is just _add_ this file, while `commit` means you confirm your changes and put the changed file into repo. `commit` will commit all changed files. After `-m`  is our commit info, like what's the change. 
 - `git diff` show differences with local file and added file.
 - `git status` show status.
