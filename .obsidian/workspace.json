@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80db0132839e6735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54267dd4f9fa841e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "output/practical tricks of life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ddf58a37422fb94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30eda05b487ac85a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12aba611fc305c96",
+            "id": "e0823465f7924fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0823465f7924fc9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,12 +147,12 @@
   },
   "active": "e0823465f7924fc9",
   "lastOpenFiles": [
-    "vocabulary/vocabulary-a philosophy of software design.md",
+    "vocabulary/wander on the internet.md",
     "cs learn/git/tutorial.md",
+    "vocabulary/vocabulary-a philosophy of software design.md",
     "markdown grammar.md",
     "未命名.md",
     "01_test.md",
-    "vocabulary/wander on the internet.md",
     "conflict-files-obsidian-git.md",
     "output/topics u can never escape in cs.md",
     "output/practical tricks of life.md",
