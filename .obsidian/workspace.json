@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0823465f7924fc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,15 +196,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "12aba611fc305c96",
+  "active": "e0823465f7924fc9",
   "lastOpenFiles": [
     "vocabulary/vocabulary-a philosophy of software design.md",
     "cs learn/git/tutorial.md",
