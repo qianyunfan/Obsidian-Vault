@@ -19,3 +19,6 @@ $ git config --global user.email "email@example.com"
 - `git log` show logs. Use `git log --pretty=oneline` show briefly.
 - `git reset` means rollback to the previous version. Use HEAD^^^ or HEAD~3 as parameter. Git use HEAD as a pointer to point which is current version.Can also use version code as parameter to reset version.
 - `git reflog` show all your options and version code.
+- `git checkout`
+	1. 
+- 
