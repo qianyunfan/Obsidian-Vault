@@ -11,7 +11,7 @@ $ git config --global user.email "email@example.com"
 # START
 1. Use cd command to a dictionary you want.
 2. Input `git init` in cmd, it will make this dictionary become a **repository**, which can record and control all changes by generate **.git** folder.
-# Command
+# Local Command
 - `git add` add file into stage. Just a buffer between repository and work space.
 - `git commit -m "xxxxxx"` commit file into repository. The difference with `add` is that add is just _add_ this file, while `commit` means you confirm your changes and put the changed file into repo. `commit` will commit all changed files. After `-m`  is our commit info, like what's the change. 
 - `git diff` show differences with local file and added file.
@@ -21,4 +21,4 @@ $ git config --global user.email "email@example.com"
 - `git reflog` show all your options and version code.
 - `git checkout`
 	1. Add `-- filename` as suffix. Means restore this file to the version of repository, cancel local change.
-- 
+# Remote Command
