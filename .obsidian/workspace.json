@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md"
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "e824deb429f770f6",
   "lastOpenFiles": [
+    "vocabulary/vocabulary-a philosophy of software design.md",
     "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
     "vocabulary/wander on the internet.md",
-    "vocabulary/vocabulary-a philosophy of software design.md",
     "cs learn/graphics/opengl/Cherno.md",
     "cs learn/graphics/opengl",
     "cs learn/git/tutorial.md",
