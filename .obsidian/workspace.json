@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b544c899b66121f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vocabulary/Learning Modern 3D Graphics Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "vocabulary/Learning Modern 3D Graphics Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "vocabulary/Learning Modern 3D Graphics Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md"
+                "file": "vocabulary/Learning Modern 3D Graphics Programming.md"
               }
             }
           },
@@ -145,17 +158,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e0823465f7924fc9",
+  "active": "0b544c899b66121f",
   "lastOpenFiles": [
+    "vocabulary/vocabulary-a philosophy of software design.md",
+    "vocabulary/Learning Modern 3D Graphics Programming.md",
+    "vocabulary/wander on the internet.md",
+    "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
     "cs learn/graphics/opengl/cherno-opengl-tutorial.md",
     "markdown grammar.md",
-    "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
     "2023-03-02.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "01_test.md",
-    "vocabulary/vocabulary-a philosophy of software design.md",
-    "vocabulary/wander on the internet.md",
     "cs learn/graphics/opengl",
     "cs learn/git/tutorial.md",
     "cs learn/graphics/未命名.md",

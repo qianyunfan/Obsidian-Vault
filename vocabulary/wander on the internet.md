@@ -4,5 +4,3 @@
  - [ ] elastic 弹性的
  - [ ] organism 生物，有机体
  - [ ] fossil 化石
-# Learning Modern 3D Graphics Programming
-- [ ] silhouette 轮廓

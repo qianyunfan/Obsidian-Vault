@@ -1,0 +1,3 @@
+
+- [ ] silhouette 轮廓
+- [ ] parlance 的说法
