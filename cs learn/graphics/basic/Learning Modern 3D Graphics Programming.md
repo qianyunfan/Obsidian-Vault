@@ -6,4 +6,4 @@ This is a book from [Learning Modern 3D Graphics Programming (nicolbolas.github.
 - Image is made up of 2D pixels(picture element).
 - 3D world into a 2D image of that world is called _rendering_.
 - Rasterization is a step to render. A rendering system that uses rasterization is called a _rasterizer._ Raterizer use triangle to render everything. Such series of triangle is often called _mesh_ _geometry_ or _model_.
-   It is suitable for hardware accelerate because the process of rasterizer is a pipeline, which gets the vertex of triangle and finally outputs image we want. There are numerous triangle in one frame, CPU can calculate them in order but slow. GPU
+   It is suitable for hardware accelerate because the process of rasterizer is a pipeline, which gets the vertex of triangle and finally outputs image we want. There are numerous triangle in one frame, CPU can calculate them in order but slow. GPU is capable of parallel calculate
