@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "vocabulary/wander on the internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 433.5
   },
   "right": {
     "id": "a4d653f9fa471042",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "vocabulary/wander on the internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "vocabulary/wander on the internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md"
+                "file": "vocabulary/wander on the internet.md"
               }
             }
           },
@@ -172,12 +172,12 @@
   },
   "active": "e824deb429f770f6",
   "lastOpenFiles": [
-    "cs learn/graphics/opengl/Cherno.md",
     "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+    "vocabulary/wander on the internet.md",
+    "vocabulary/vocabulary-a philosophy of software design.md",
+    "cs learn/graphics/opengl/Cherno.md",
     "cs learn/graphics/opengl",
     "cs learn/git/tutorial.md",
-    "vocabulary/vocabulary-a philosophy of software design.md",
-    "vocabulary/wander on the internet.md",
     "cs learn/graphics/未命名.md",
     "cs learn/graphics/basic",
     "cs learn/graphics",
