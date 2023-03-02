@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e824deb429f770f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs learn/graphics/opengl/Cherno.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "cs learn/graphics/opengl/Cherno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "cs learn/graphics/opengl/Cherno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md"
+                "file": "cs learn/graphics/opengl/Cherno.md"
               }
             }
           },
@@ -158,11 +170,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d9905f0987f36dee",
+  "active": "e824deb429f770f6",
   "lastOpenFiles": [
+    "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+    "cs learn/graphics/opengl/Cherno.md",
     "cs learn/graphics/opengl",
     "cs learn/git/tutorial.md",
-    "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
     "vocabulary/vocabulary-a philosophy of software design.md",
     "vocabulary/wander on the internet.md",
     "cs learn/graphics/未命名.md",
