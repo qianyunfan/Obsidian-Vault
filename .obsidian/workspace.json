@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eff4258fe284c02e",
+  "active": "e0cbb036903f76cb",
   "lastOpenFiles": [
     "cs learn/graphics/未命名.md",
     "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
