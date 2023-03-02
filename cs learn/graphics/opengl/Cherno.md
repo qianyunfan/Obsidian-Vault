@@ -1,2 +1,2 @@
 # Brief
-Cherno 
+Cherno is my old "friend". I watched
