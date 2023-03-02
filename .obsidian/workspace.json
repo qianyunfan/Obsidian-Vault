@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md",
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocabulary/vocabulary-a philosophy of software design.md"
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "eff4258fe284c02e",
   "lastOpenFiles": [
+    "vocabulary/vocabulary-a philosophy of software design.md",
     "vocabulary/wander on the internet.md",
     "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
     "cs learn/graphics/未命名.md",
@@ -168,7 +169,6 @@
     "cs learn/graphics",
     "cs learn/git/未命名",
     "未命名",
-    "vocabulary/vocabulary-a philosophy of software design.md",
     "markdown grammar.md",
     "未命名.md",
     "01_test.md",
