@@ -22,4 +22,4 @@ $ git config --global user.email "email@example.com"
 - `git checkout`
 	1. Add `-- filename` as suffix. Means restore this file to the version of repository, cancel local change.
 # Remote Command
-- `git push origin master` origin is the default name of repository. Master is your 
+- `git push origin master` origin is the default name of repository. Master is current branch. Push will put local changes to remote.
