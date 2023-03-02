@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eff4258fe284c02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md"
+              }
             }
           },
           {
@@ -141,11 +158,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d9905f0987f36dee",
+  "active": "eff4258fe284c02e",
   "lastOpenFiles": [
-    "cs learn/graphics/未命名",
-    "cs learn/git/tutorial.md",
     "cs learn/graphics/未命名.md",
+    "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+    "cs learn/graphics/basic",
+    "cs learn/git/tutorial.md",
     "cs learn/graphics",
     "cs learn/git/未命名",
     "未命名",
