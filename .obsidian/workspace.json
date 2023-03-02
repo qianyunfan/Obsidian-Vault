@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "file": "vocabulary/vocabulary-a philosophy of software design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md"
+                "file": "vocabulary/vocabulary-a philosophy of software design.md"
               }
             }
           },
@@ -159,16 +158,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e0cbb036903f76cb",
+  "active": "eff4258fe284c02e",
   "lastOpenFiles": [
-    "cs learn/graphics/未命名.md",
+    "vocabulary/wander on the internet.md",
     "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+    "cs learn/graphics/未命名.md",
     "cs learn/graphics/basic",
     "cs learn/git/tutorial.md",
     "cs learn/graphics",
     "cs learn/git/未命名",
     "未命名",
-    "vocabulary/wander on the internet.md",
     "vocabulary/vocabulary-a philosophy of software design.md",
     "markdown grammar.md",
     "未命名.md",
