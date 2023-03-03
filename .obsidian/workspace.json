@@ -35,9 +35,11 @@
             "id": "ef23cdcc4816dba0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "output/practical tricks of life.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocabulary/Learning Modern 3D Graphics Programming.md",
+                "file": "output/practical tricks of life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocabulary/Learning Modern 3D Graphics Programming.md",
+                "file": "output/practical tricks of life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocabulary/Learning Modern 3D Graphics Programming.md"
+                "file": "output/practical tricks of life.md"
               }
             }
           },
@@ -170,12 +172,14 @@
   },
   "active": "ef23cdcc4816dba0",
   "lastOpenFiles": [
+    "output/topics u can never escape in cs.md",
+    "output/practical tricks of life.md",
+    "vocabulary/Learning Modern 3D Graphics Programming.md",
     "vocabulary/vocabulary-a philosophy of software design.md",
     "vocabulary/wander on the internet.md",
     "cs learn/git/tutorial.md",
     "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
     "cs learn/graphics/opengl/cherno-opengl-tutorial.md",
-    "vocabulary/Learning Modern 3D Graphics Programming.md",
     "markdown grammar.md",
     "2023-03-02.md",
     "未命名 1.canvas",
@@ -189,8 +193,6 @@
     "未命名",
     "未命名.md",
     "conflict-files-obsidian-git.md",
-    "output/topics u can never escape in cs.md",
-    "output/practical tricks of life.md",
     "图片链接.md"
   ]
 }
