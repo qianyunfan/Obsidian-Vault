@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/practical tricks of life.md",
-                "mode": "preview",
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "output/practical tricks of life.md",
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "output/practical tricks of life.md",
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "output/practical tricks of life.md"
+                "file": "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md"
               }
             }
           },
@@ -172,14 +172,14 @@
   },
   "active": "ef23cdcc4816dba0",
   "lastOpenFiles": [
-    "output/topics u can never escape in cs.md",
+    "cs learn/graphics/opengl/cherno-opengl-tutorial.md",
     "output/practical tricks of life.md",
+    "output/topics u can never escape in cs.md",
     "vocabulary/Learning Modern 3D Graphics Programming.md",
     "vocabulary/vocabulary-a philosophy of software design.md",
     "vocabulary/wander on the internet.md",
     "cs learn/git/tutorial.md",
     "cs learn/graphics/basic/Learning Modern 3D Graphics Programming.md",
-    "cs learn/graphics/opengl/cherno-opengl-tutorial.md",
     "markdown grammar.md",
     "2023-03-02.md",
     "未命名 1.canvas",
